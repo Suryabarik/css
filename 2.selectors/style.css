@@ -1,0 +1,27 @@
+*{
+    background: green;
+}
+
+body{
+font-family: cursive;
+}
+
+#first {
+    color: red;
+}
+#first>p {
+    color: rgb(0, 255, 221);
+}
+
+p:hover{
+    font-family: monospace;
+}
+
+.purple{
+ color:purple ;
+ font-family: monospace;
+}
+
+.highlight{
+    background-color: yellow;
+}
